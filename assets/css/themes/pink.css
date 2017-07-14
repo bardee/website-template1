@@ -1,0 +1,176 @@
+﻿/*=============================================================
+    Authour URI: www.binarytheme.com
+    License: Commons Attribution 3.0
+
+    http://creativecommons.org/licenses/by/3.0/
+
+    100% Free To use For Personal And Commercial Use.
+    IN EXCHANGE JUST GIVE US CREDITs AND TELL YOUR FRIENDS ABOUT US
+   
+    ========================================================  */
+
+
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+
+h1 {
+  color: rgb(255, 15, 101);
+}
+
+
+/* =============================================================
+  BUTTON SECTION STYLES
+ ============================================================ */
+
+.custom-btn-one {
+  border-color: rgb(255, 15, 101);
+}
+
+.custom-btn-one:hover {
+  background-color: rgba(255, 15, 101, .25);
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+
+/* =============================================================
+  NAVBAR SECTION STYLES
+ ============================================================ */
+
+.navbar {
+  color: rgb(255, 15, 101);
+}
+
+.navbar a {
+  color: rgb(255, 15, 101);
+}
+
+.stuck-nav {
+  border-bottom: 2px solid rgb(255, 15, 101);
+  -webkit-transition: all .5s ease;
+  -moz-transition: all .5s ease;
+  -o-transition: all .5s ease;
+  transition: all .5s ease;
+}
+
+
+/* =============================================================
+  HOME SECTION STYLES
+ ============================================================ */
+
+#home-sec .main-img {
+  border: 5px solid rgb(255, 15, 101);
+}
+
+#home-sec .main-img-2 {
+  border: 5px solid rgb(255, 15, 101);
+}
+
+.icon-round:hover {
+  background-color: rgb(255, 15, 101);
+}
+
+.icon-round-active {
+  background-color: rgb(255, 15, 101);
+}
+
+
+/* =============================================================
+  SKILL SECTION STYLES ( easy-pie-chart css)
+ ============================================================ */
+
+#skill-sec h4 {
+  color: rgb(255, 15, 101);
+}
+
+
+/* =============================================================
+  DOWNLOAD SECTION STYLES
+ ============================================================ */
+
+.board .tab-content i {
+  color: rgb(255, 15, 101);
+}
+
+.board .tab-content .head {
+  color: rgb(255, 15, 101);
+}
+
+
+/*=====================================
+  TESTIMONIALS STYLES 
+    ===================================*/
+
+#testimonial-main img {
+  border: 3px solid rgb(255, 15, 101);
+}
+
+
+/*=====================================
+  PORTFOLIO STYLES 
+    ===================================*/
+
+.portfolio-sec-wrap .overlay {
+  background-color: rgb(255, 15, 101);
+}
+
+#portfolio-sec .form-control:focus {
+  border-color: rgb(255, 15, 101);
+  box-shadow: 0 0 8px rgba(255, 15, 101, .6);
+}
+
+.service-card {
+  border: 1px solid rgb(255, 15, 101);
+}
+
+.service-card-header {
+  color: rgb(255, 15, 101) !important;
+}
+
+.service-card-body h2 {
+  color: rgb(255, 15, 101) !important;
+  font-weight: bold;
+}
+
+
+/*=====================================
+  CONTACT STYLES
+    ===================================*/
+
+#contact-sec .form-control:focus {
+  border-color: rgb(255, 15, 101);
+  box-shadow: 0 0 8px rgba(255, 15, 101, .6);
+}
+
+#contact-sec h3 {
+  color: rgb(255, 15, 101);
+}
+
+#contact-sec i {
+  color: rgb(255, 15, 101);
+}
+
+
+/*=====================================
+  FOOTER STYLES 
+    ===================================*/
+
+#footer-sec h3 {
+  color: rgb(255, 15, 101);
+}
+
+#footer-sec i {
+  color: rgb(255, 15, 101);
+}
+
+
+/*=====================================
+  SCROLLUP STYLES 
+    ===================================*/
+
+a.scrollup {
+  background: rgb(255, 15, 101);
+}
