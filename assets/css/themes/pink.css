@@ -14,9 +14,14 @@
    GENERAL STYLES
  ============================================================ */
 
-h1 {
-  color: rgb(255, 15, 101);
+*::-webkit-scrollbar-thumb {
+    background-color: rgb(255, 15, 101);
 }
+
+h1 {
+    color: rgb(255, 15, 101);
+}
+
 
 
 /* =============================================================
@@ -24,16 +29,17 @@ h1 {
  ============================================================ */
 
 .custom-btn-one {
-  border-color: rgb(255, 15, 101);
+    border-color: rgb(255, 15, 101);
 }
 
 .custom-btn-one:hover {
-  background-color: rgba(255, 15, 101, .25);
-  -webkit-transition: all .5s ease;
-  -moz-transition: all .5s ease;
-  -o-transition: all .5s ease;
-  transition: all .5s ease;
+    background-color: rgba(255, 15, 101, .25);
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
 }
+
 
 
 /* =============================================================
@@ -41,20 +47,21 @@ h1 {
  ============================================================ */
 
 .navbar {
-  color: rgb(255, 15, 101);
+    color: rgb(255, 15, 101);
 }
 
 .navbar a {
-  color: rgb(255, 15, 101);
+    color: rgb(255, 15, 101);
 }
 
 .stuck-nav {
-  border-bottom: 2px solid rgb(255, 15, 101);
-  -webkit-transition: all .5s ease;
-  -moz-transition: all .5s ease;
-  -o-transition: all .5s ease;
-  transition: all .5s ease;
+    border-bottom: 2px solid rgb(255, 15, 101);
+    -webkit-transition: all .5s ease;
+    -moz-transition: all .5s ease;
+    -o-transition: all .5s ease;
+    transition: all .5s ease;
 }
+
 
 
 /* =============================================================
@@ -62,20 +69,21 @@ h1 {
  ============================================================ */
 
 #home-sec .main-img {
-  border: 5px solid rgb(255, 15, 101);
+    border: 5px solid rgb(255, 15, 101);
 }
 
 #home-sec .main-img-2 {
-  border: 5px solid rgb(255, 15, 101);
+    border: 5px solid rgb(255, 15, 101);
 }
 
 .icon-round:hover {
-  background-color: rgb(255, 15, 101);
+    background-color: rgb(255, 15, 101);
 }
 
 .icon-round-active {
-  background-color: rgb(255, 15, 101);
+    background-color: rgb(255, 15, 101);
 }
+
 
 
 /* =============================================================
@@ -83,8 +91,9 @@ h1 {
  ============================================================ */
 
 #skill-sec h4 {
-  color: rgb(255, 15, 101);
+    color: rgb(255, 15, 101);
 }
+
 
 
 /* =============================================================
@@ -92,12 +101,13 @@ h1 {
  ============================================================ */
 
 .board .tab-content i {
-  color: rgb(255, 15, 101);
+    color: rgb(255, 15, 101);
 }
 
 .board .tab-content .head {
-  color: rgb(255, 15, 101);
+    color: rgb(255, 15, 101);
 }
+
 
 
 /*=====================================
@@ -105,8 +115,9 @@ h1 {
     ===================================*/
 
 #testimonial-main img {
-  border: 3px solid rgb(255, 15, 101);
+    border: 3px solid rgb(255, 15, 101);
 }
+
 
 
 /*=====================================
@@ -114,25 +125,68 @@ h1 {
     ===================================*/
 
 .portfolio-sec-wrap .overlay {
-  background-color: rgb(255, 15, 101);
+    background-color: rgb(255, 15, 101);
 }
 
 #portfolio-sec .form-control:focus {
-  border-color: rgb(255, 15, 101);
-  box-shadow: 0 0 8px rgba(255, 15, 101, .6);
+    border-color: rgb(255, 15, 101);
+    box-shadow: 0 0 8px rgba(255, 15, 101, .6);
+}
+
+.serv-per-pg span {
+    color: rgb(255, 15, 101);
+}
+
+.service-pgn li {
+    background-color: rgb(255, 15, 101);
+}
+
+.service-pgn .serv-pg-track {
+    color: rgb(255, 15, 101);
+}
+
+.serv-pginput:focus,
+.serv-pginput:hover {
+    outline: none;
+    background-color: rgb(255, 15, 101);
 }
 
 .service-card {
-  border: 1px solid rgb(255, 15, 101);
+    border: 1px solid rgb(255, 15, 101);
 }
 
 .service-card-header {
-  color: rgb(255, 15, 101) !important;
+    color: rgb(255, 15, 101) !important;
 }
 
 .service-card-body h2 {
-  color: rgb(255, 15, 101) !important;
-  font-weight: bold;
+    color: rgb(255, 15, 101) !important;
+    font-weight: bold;
+}
+
+.modal-content {
+    border: 2px solid rgb(255, 15, 101);
+}
+
+.modal-header {
+    border-color: rgb(255, 15, 101);
+}
+
+.modal-title {
+    color: rgb(255, 15, 101);
+}
+
+.modal-subtitle {
+    color: rgb(255, 15, 101);
+}
+
+.part-color-sel select {
+    border-color: rgb(255, 15, 101);
+}
+
+.modal .close:hover {
+    color: rgb(255, 15, 101) !important;
+    text-shadow: none;
 }
 
 
@@ -141,17 +195,18 @@ h1 {
     ===================================*/
 
 #contact-sec .form-control:focus {
-  border-color: rgb(255, 15, 101);
-  box-shadow: 0 0 8px rgba(255, 15, 101, .6);
+    border-color: rgb(255, 15, 101);
+    box-shadow: 0 0 8px rgba(255, 15, 101, .6);
 }
 
 #contact-sec h3 {
-  color: rgb(255, 15, 101);
+    color: rgb(255, 15, 101);
 }
 
 #contact-sec i {
-  color: rgb(255, 15, 101);
+    color: rgb(255, 15, 101);
 }
+
 
 
 /*=====================================
@@ -159,12 +214,13 @@ h1 {
     ===================================*/
 
 #footer-sec h3 {
-  color: rgb(255, 15, 101);
+    color: rgb(255, 15, 101);
 }
 
 #footer-sec i {
-  color: rgb(255, 15, 101);
+    color: rgb(255, 15, 101);
 }
+
 
 
 /*=====================================
@@ -172,5 +228,5 @@ h1 {
     ===================================*/
 
 a.scrollup {
-  background: rgb(255, 15, 101);
+    background: rgb(255, 15, 101);
 }
